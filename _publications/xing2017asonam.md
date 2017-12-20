@@ -2,7 +2,7 @@
 title: "
 Understanding and Classifying Online Amputee Users on Reddit"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/xing2017asonam
 date: 2017-08-01
 venue: "2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2017 (ASONAM '17)"
 paperurl: 'https://dl.acm.org/citation.cfm?id=3110037&CFID=1018560761&CFTOKEN=17541270'
