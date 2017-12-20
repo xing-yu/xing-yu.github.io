@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-B.S. major in Psychology, [Zhejiang University](http://www.zju.edu.cn/english/), 2008
-Ph.D major in Informatics, minor in computer science, Indiana University(Indianapolis), 2019 (expected)
+* B.S. major in Psychology, [Zhejiang University](http://www.zju.edu.cn/english/), 2008
+* Ph.D major in Informatics, minor in computer science, Indiana University(Indianapolis), 2019 (expected)
 
 Curriculum Vitae
 ======
