@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 2"
+title: "Designing Leaderboards for Gamification: Perceived Differences Based on User Ranking, Application Domain, and Personality Traits"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/yuan2017CHI
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
