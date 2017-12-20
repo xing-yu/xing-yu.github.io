@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-08-01
-venue: '2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2017 (ASONAM '17)'
+venue: '2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2017 (ASONAM 17)'
 paperurl: 'https://dl.acm.org/citation.cfm?id=3110037&CFID=1018560761&CFTOKEN=17541270'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
