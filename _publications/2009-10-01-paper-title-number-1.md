@@ -1,6 +1,8 @@
 ---
 title: "Understanding and Classifying Online Amputee Users on Reddit"
 collection: publications
+permalink: https://dl.acm.org/citation.cfm?id=3110037&CFID=1018560761&CFTOKEN=17541270
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-08-01
 venue: 'In Proceedings of the 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2017 (ASONAM '17), Jana Diesner, Elena Ferrari, and Guandong Xu (Eds.). ACM, New York, NY, USA, 17-22. DOI: https://doi.org/10.1145/3110025.3110037'
 paperurl: 'https://dl.acm.org/citation.cfm?id=3110037&CFID=1018560761&CFTOKEN=17541270'
