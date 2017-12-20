@@ -3,7 +3,6 @@ title: "
 Understanding and Classifying Online Amputee Users on Reddit"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Classifying Amputee Users on Reddit.com'
 date: 2017-08-01
 venue: "2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2017 (ASONAM '17)"
 paperurl: 'https://dl.acm.org/citation.cfm?id=3110037&CFID=1018560761&CFTOKEN=17541270'
@@ -13,4 +12,3 @@ Accessibility researchers have difficulty recruiting representative participants
 
 [Download paper here](https://dl.acm.org/citation.cfm?id=3110037&CFID=1018560761&CFTOKEN=17541270)
 
-Recommended citation: Xing Yu and Erin Brady. 2017. Understanding and Classifying Online Amputee Users on Reddit. In Proceedings of the 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2017 (ASONAM '17), Jana Diesner, Elena Ferrari, and Guandong Xu (Eds.). ACM, New York, NY, USA, 17-22. DOI: https://doi.org/10.1145/3110025.3110037
