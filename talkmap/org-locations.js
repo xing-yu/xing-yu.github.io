@@ -8,7 +8,7 @@ var addressPoints = [
     "Watsonville, California",
     36.9102,
     121.7569
-  ]
+  ],
   [
     "Montreal, Canada",
     45.5017,
