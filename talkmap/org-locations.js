@@ -11,7 +11,7 @@ var addressPoints = [
   ],
   [
     "Montreal, Canada",
-    45.5017,
-    -73.5673
+    45.5161,
+    -73.6568
   ]
 ];
