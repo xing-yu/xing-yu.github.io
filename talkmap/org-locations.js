@@ -2,7 +2,7 @@ var addressPoints = [
   [
     "Sydney, Australia",
     -33.8688,
-    -151.2093
+    151.2093
   ],
   [
     "Watsonville, California",
