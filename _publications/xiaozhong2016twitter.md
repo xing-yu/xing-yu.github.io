@@ -1,6 +1,5 @@
 ---
-title: "
-Comparing Community-based Information Adoption and Diffusion Across Different Microblogging Sites"
+title: "Comparing Community-based Information Adoption and Diffusion Across Different Microblogging Sites"
 collection: publications
 permalink: /publication/xiaozhong2016twitter.md
 date: 2016-07-10
