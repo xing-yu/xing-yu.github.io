@@ -1,7 +1,7 @@
 ---
 title: "Comparing Community-based Information Adoption and Diffusion Across Different Microblogging Sites"
 collection: publications
-permalink: /publication/xiaozhong2016twitter.md
+permalink: /publication/xiaozhong2016twitter
 date: 2016-07-10
 venue: 'Proceedings of the 27th ACM Conference on Hypertext and Social Media.'
 paperurl: 'https://dl.acm.org/citation.cfm?id=2914665&CFID=1018560761&CFTOKEN=17541270'
