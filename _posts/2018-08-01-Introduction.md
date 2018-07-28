@@ -7,10 +7,6 @@ tags:
   - category2
 ---
 
-# Introduction to Python
-
-<span style="color:#D3D3D3">Author: Xing Yu</span>
-
 Python (version 3 or later) is the main programming language that we will learn and use in I101. Python is a interpretive language that doesn't need to be compiled before running. Its grammar is relatively intuitive. And it is a very popular programming language used in informatics and computer science. This tutorial is a start point for you to get familar with programming in general.
 
 ## The "Hello World" example
