@@ -1,0 +1,20 @@
+
+# Setup I101 Appliance
+
+I101 is a virtual machine built on Linux to help students in I101 learn coding, database, and creating websites on LAMP structure. This tutorial helps you setup the appliance.
+
+## Download Files
+
+1.0 Download VirtualBox
+
+VirtualBox is the software that allows you to run a virtual machine on your existing machine. You need to download and install it first before you can setup the I101 appliance. 
+
+Go to the [website](https://www.virtualbox.org) to download the installation file. Then follow the [instructions](https://www.virtualbox.org/manual/ch01.html#intro-installing) to install it. The process may be a little be different depends on what computers you are using.
+
+2.0 Download the I101 appliance
+
+You can download the appliance via this [link](https://iu.box.com/s/1zn68jnj2sjbujabl5z8aoazq0xwr30e). The file size is 2.1 GB, so it may take some time to download.
+
+## Import the appliance
+
+The I101 appliance you just downloaded should be a .ova file. Follow this [link](https://www.virtualbox.org/manual/ch01.html#ovf) to import the file to your virtualbox.
