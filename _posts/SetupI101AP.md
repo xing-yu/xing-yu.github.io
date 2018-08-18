@@ -1,4 +1,11 @@
-
+---
+title: 'How to setup I101 appliance'
+date: 2018-08-18
+permalink: /posts/2018/10/I101AP/
+tags:
+  - category1
+  - category2
+---
 # Setup I101 Appliance
 
 I101 is a virtual machine built on Linux to help students in I101 learn coding, database, and creating websites on LAMP structure. This tutorial helps you setup the appliance.
