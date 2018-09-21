@@ -16,4 +16,4 @@ Education
 
 Curriculum Vitae
 ======
-* [Download CV](https://xing-yu.github.io/files/CV.pdf)
+* [Download CV](https://xing-yu.github.io/files/CV_v2.pdf)
