@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xing Yu"
 title_separator          : "-"
 name                     : &name "Xing Yu"
-description              : &description "Ph.D. Candidate at IU School of Informatics and Computing"
+description              : &description "Machine Learning Engineer at Meta"
 url                      : https://xing-yu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xing-yu.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Xing"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. Candidate at IU School of Informatics and Computing"
-  location         : "Indianapolis, Indiana"
+  bio              : "Machine Learning Engineer at Meta"
+  location         : "Carmel, Indiana"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=pli6qv8AAAAJ&hl=en"
-  email            : "yu64@iu.edu"
+  email            : "staryu.udi@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xingy/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
